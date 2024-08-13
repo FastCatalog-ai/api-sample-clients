@@ -1,2 +1,23 @@
-# api-sample-clients
-Sample clients in various languages to consume the FastCatalog.ai API
+# Introduction
+
+# Getting Started
+
+## Prerequisites
+
+## Installation
+
+## Setting Up Authentication
+
+# Usage
+
+## Public API Example
+## Authenticated API Example
+
+
+# Directory Structure
+
+# Contributing
+
+# License
+
+# Contact Information
